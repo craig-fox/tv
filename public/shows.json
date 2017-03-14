@@ -1,0 +1,31 @@
+{
+  "shows":[{
+    "id":"1",
+    "channel":"1",
+    "time":"19:30",
+    "name":"I Was A Teenage React Coder",
+    "rating":"PGR"
+  },
+  {
+    "id":"2",
+    "channel":"1",
+    "time":"20:30",
+    "name":"Who Put The 'V' In MVC?",
+    "rating":"PGR"
+  },
+  {
+    "id":"3",
+    "channel":"1",
+    "time":"21:00",
+    "name":"CSI:JSX",
+    "rating":"AO"
+  },
+  {
+    "id":"4",
+    "channel":"1",
+    "time":"22:00",
+    "name":"Supernatural: React Goes Native",
+    "rating":"AO"
+  }
+  ]
+}
