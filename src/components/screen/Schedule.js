@@ -19,8 +19,8 @@ class Schedule extends Component {
                     </tr>
                     </thead>
                     <tbody>
-                    {this.props.shows.map((show) =>
-                        <tr key={show.id}>
+                    {this.props.shows.map((show, index) =>
+                        <tr key={index}>
                         <td> {show.channel} </td>
                         <td> {show.time} </td>
                         <td> {show.name} </td>
